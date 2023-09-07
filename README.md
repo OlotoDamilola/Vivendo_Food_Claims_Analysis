@@ -8,8 +8,6 @@ After downloading and importing the data into MySQL workbench, i checked for mis
 After importing the data into power query, I checked for validity of my data using column distribution, quality and profiling. I noticed the cause column contained either meat, vegetable or unknown. Vegetable were represented in all lower and upper case. All upper case were changed to lower case. In some cases, the first letter in meat were in upper case, all meat were changed to lower case for consistency.
 # Data Analysis & Visualizations
 1)  Create a visualization that shows the number of claims in each location. Use the visualization to:
-
-a)  State which category of the variable location has the most observations
-
-b)  Explain whether the observation are balanced across categories of the variable location
+    a)  State which category of the variable location has the most observations
+    b)  Explain whether the observation are balanced across categories of the variable location
 
